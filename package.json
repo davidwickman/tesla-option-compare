@@ -1,0 +1,13 @@
+{
+  "name": "tesla-option-compare",
+  "version": "0.0.1",
+  "description": "Comparisons using the Model S Design Studio vs another Tesla",
+  "main": "index.js",
+  "repository": "https://github.com/davidwickman/tesla-option-compare.git",
+  "author": "David Wickman <dave@wickmanstudios.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "lodash": "^4.17.4"
+  }
+}
